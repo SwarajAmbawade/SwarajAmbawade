@@ -108,4 +108,5 @@ Sustainable campus water management solution.
 
 ---
 
-⭐ "Consistency beats intensity."<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/33610adb-acb3-43d7-8da8-506a20d734e8" />
+⭐ "Consistency beats intensity."
+
