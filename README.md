@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Swaraj+Ambawade;Computer+Engineering+Student;DSA+%7C+Web+Development+%7C+Cloud;Future+Software+Engineer" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=SwarajAmbawade&color=blue)
+
 <h1 align="center">Hi 👋, I'm Swaraj Ambawade</h1>
 
 <h3 align="center">
@@ -99,4 +105,7 @@ Sustainable campus water management solution.
 ---
 
 ⭐ "Consistency beats intensity."
+
+.github/workflows/snake.yml
+![snake gif](https://github.com/SwarajAmbawade/SwarajAmbawade/blob/output/github-contribution-grid-snake.svg)
 
