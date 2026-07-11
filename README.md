@@ -24,11 +24,6 @@ Computer Engineering Student | Aspiring Software Engineer | Building Projects & 
 - React
 - MySQL
 
-🎯 Goal:
-- Crack placements
-- Build SaaS products
-- Become financially independent
-
 ---
 
 ## 🛠️ Tech Stack
@@ -42,7 +37,7 @@ Computer Engineering Student | Aspiring Software Engineer | Building Projects & 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,bootstrap,tailwind" />
 </p>
 
 ### Database
@@ -103,7 +98,7 @@ Sustainable campus water management solution.
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/swarajambawade/">LinkedIn</a>
 </p>
 
 ---
