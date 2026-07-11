@@ -102,12 +102,16 @@ Sustainable campus water management solution.
 
 ---
 
-⭐ "Consistency beats intensity."
+⭐"Consistency beats intensity."⭐
 
 <div align="center">
-![snake gif](https://github.com/SwarajAmbawade/SwarajAmbawade/blob/output/github-contribution-grid-snake.svg)
-</div>
-![](https://komarev.com/ghpvc/?username=SwarajAmbawade&color=blue)
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/SwarajAmbawade/SwarajAmbawade/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<div align="center">
+![](https://komarev.com/ghpvc/?username=SwarajAmbawade&color=blue)
+</div>
 
 
