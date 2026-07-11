@@ -43,7 +43,7 @@ Computer Engineering Student | Aspiring Software Engineer | Building Projects & 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,postgres,mongodb" />
 </p>
 
 ### Tools
@@ -80,10 +80,20 @@ Sustainable campus water management solution.
 ---
 
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <p>
-<a href="https://www.linkedin.com/in/swarajambawade/">LinkedIn</a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+
+  <a href="YOUR_RESUME_URL">
+    <img width="48" src="https://cdn-icons-png.flaticon.com/512/337/337946.png" />
+  </a>
 </p>
 
 ---
