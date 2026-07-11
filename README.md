@@ -111,7 +111,6 @@ Sustainable campus water management solution.
 </div>
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=SwarajAmbawade&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=SwarajAmbawade&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </div>
-
 
