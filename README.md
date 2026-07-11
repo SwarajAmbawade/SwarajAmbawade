@@ -83,7 +83,7 @@ Sustainable campus water management solution.
 <h2>🌐 Connect With Me</h2>
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/swarajambawade/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
