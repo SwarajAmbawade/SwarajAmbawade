@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Swaraj+Ambawade;Computer+Engineering+Student;Aspiring+Software+Engineer;Building+Projects+&+Solving+DSA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Swaraj+Ambawade" />
 </p>
----
-<!-- <h1 align="center">Hi 👋, I'm Swaraj Ambawade</h1> -->
 
+<!-- <h1 align="center">Hi 👋, I'm Swaraj Ambawade</h1> -->
+---
 <h3 align="center">
 Computer Engineering Student | Aspiring Software Engineer | Building Projects & Solving DSA
 </h3>
